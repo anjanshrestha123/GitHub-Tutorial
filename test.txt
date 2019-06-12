@@ -1,0 +1,5 @@
+Git commands:
+
+1. git clone <git_url>
+2. git status
+3,
