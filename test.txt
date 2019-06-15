@@ -1,5 +1,9 @@
 Git commands:
 
-1. git clone <git_url>
-2. git status
-3,
+1. git clone <git_url>   = copy repositories to local
+2. git status = check status of files
+3. git add <file_name> = red to green
+4. git commit -m <commit_message>   = save to local repository
+5. git remote -v          = see all the remote repository
+6. git push origin     = send to remote repository
+6. git pull origin         = get latest changes from remote repository
